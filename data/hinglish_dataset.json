@@ -1,0 +1,886 @@
+[
+  {
+    "hinglish": "statement band ho gaya",
+    "english": "statement has stopped"
+  },
+  {
+    "hinglish": "track kab aayega?",
+    "english": "When will the track arrive?"
+  },
+  {
+    "hinglish": "statement kaam nahi kar raha hai",
+    "english": "statement is not working"
+  },
+  {
+    "hinglish": "Tum balance kar rahe ho?",
+    "english": "Are you balanceing?"
+  },
+  {
+    "hinglish": "update kab aayega?",
+    "english": "When will the update arrive?"
+  },
+  {
+    "hinglish": "track kaam nahi kar raha hai",
+    "english": "track is not working"
+  },
+  {
+    "hinglish": "Mujhe interest rate chahiye",
+    "english": "I want interest rate"
+  },
+  {
+    "hinglish": "Mujhe price karna hai",
+    "english": "I want to price"
+  },
+  {
+    "hinglish": "baat kaise check karu?",
+    "english": "How do I check talk?"
+  },
+  {
+    "hinglish": "Tum paise kar rahe ho?",
+    "english": "Are you moneying?"
+  },
+  {
+    "hinglish": "Naya discount lena hai",
+    "english": "I want to get a new discount"
+  },
+  {
+    "hinglish": "Mujhe install me help chahiye",
+    "english": "I need help with install"
+  },
+  {
+    "hinglish": "Mujhe reset karna hai",
+    "english": "I want to reset"
+  },
+  {
+    "hinglish": "Mujhe loan me help chahiye",
+    "english": "I need help with loan"
+  },
+  {
+    "hinglish": "Mujhe interest rate karni hai",
+    "english": "I want to interest rate"
+  },
+  {
+    "hinglish": "Mujhe screen karni hai",
+    "english": "I want to screen"
+  },
+  {
+    "hinglish": "install kaise check karu?",
+    "english": "How do I check install?"
+  },
+  {
+    "hinglish": "Mujhe balance me help chahiye",
+    "english": "I need help with balance"
+  },
+  {
+    "hinglish": "Tum password kar rahe ho?",
+    "english": "Are you passwording?"
+  },
+  {
+    "hinglish": "Mujhe update chahiye",
+    "english": "I want update"
+  },
+  {
+    "hinglish": "account kitne ka hai?",
+    "english": "How much is the account?"
+  },
+  {
+    "hinglish": "Mujhe discount karna hai",
+    "english": "I want to discount"
+  },
+  {
+    "hinglish": "Mujhe hello karna hai",
+    "english": "I want to hello"
+  },
+  {
+    "hinglish": "Mujhe madad me help chahiye",
+    "english": "I need help with help"
+  },
+  {
+    "hinglish": "Mujhe install karna hai",
+    "english": "I want to install"
+  },
+  {
+    "hinglish": "interest rate kitne ka hai?",
+    "english": "How much is the interest rate?"
+  },
+  {
+    "hinglish": "Kya main interest rate kar sakta hu?",
+    "english": "Can I interest rate?"
+  },
+  {
+    "hinglish": "order kitne ka hai?",
+    "english": "How much is the order?"
+  },
+  {
+    "hinglish": "Mujhe paise karni hai",
+    "english": "I want to money"
+  },
+  {
+    "hinglish": "error change karna hai",
+    "english": "I want to change error"
+  },
+  {
+    "hinglish": "Kya main screen kar sakta hu?",
+    "english": "Can I screen?"
+  },
+  {
+    "hinglish": "Mujhe interest rate me help chahiye",
+    "english": "I need help with interest rate"
+  },
+  {
+    "hinglish": "balance kaise check karu?",
+    "english": "How do I check balance?"
+  },
+  {
+    "hinglish": "hi kab aayega?",
+    "english": "When will the hi arrive?"
+  },
+  {
+    "hinglish": "reset kaam nahi kar raha hai",
+    "english": "reset is not working"
+  },
+  {
+    "hinglish": "paise kab aayega?",
+    "english": "When will the money arrive?"
+  },
+  {
+    "hinglish": "Mujhe kaise chahiye",
+    "english": "I want how"
+  },
+  {
+    "hinglish": "Mujhe transfer karni hai",
+    "english": "I want to transfer"
+  },
+  {
+    "hinglish": "kya kaam nahi kar raha hai",
+    "english": "what is not working"
+  },
+  {
+    "hinglish": "order kaise check karu?",
+    "english": "How do I check order?"
+  },
+  {
+    "hinglish": "paise change karna hai",
+    "english": "I want to change money"
+  },
+  {
+    "hinglish": "Naya install lena hai",
+    "english": "I want to get a new install"
+  },
+  {
+    "hinglish": "track kaise check karu?",
+    "english": "How do I check track?"
+  },
+  {
+    "hinglish": "order kaam nahi kar raha hai",
+    "english": "order is not working"
+  },
+  {
+    "hinglish": "Kya main install kar sakta hu?",
+    "english": "Can I install?"
+  },
+  {
+    "hinglish": "Mera screen kaam nahi kar raha",
+    "english": "My screen is not working"
+  },
+  {
+    "hinglish": "Mujhe discount karna hai",
+    "english": "I want to discount"
+  },
+  {
+    "hinglish": "error kaise check karu?",
+    "english": "How do I check error?"
+  },
+  {
+    "hinglish": "Mujhe return chahiye",
+    "english": "I want return"
+  },
+  {
+    "hinglish": "refund band ho gaya",
+    "english": "refund has stopped"
+  },
+  {
+    "hinglish": "buy kaise check karu?",
+    "english": "How do I check buy?"
+  },
+  {
+    "hinglish": "Naya interest rate lena hai",
+    "english": "I want to get a new interest rate"
+  },
+  {
+    "hinglish": "account kitne ka hai?",
+    "english": "How much is the account?"
+  },
+  {
+    "hinglish": "loan karna hai",
+    "english": "I want to do loan"
+  },
+  {
+    "hinglish": "Mera baat kaam nahi kar raha",
+    "english": "My talk is not working"
+  },
+  {
+    "hinglish": "refund kab aayega?",
+    "english": "When will the refund arrive?"
+  },
+  {
+    "hinglish": "refund change karna hai",
+    "english": "I want to change refund"
+  },
+  {
+    "hinglish": "Mujhe interest rate chahiye",
+    "english": "I want interest rate"
+  },
+  {
+    "hinglish": "transfer kaam nahi kar raha hai",
+    "english": "transfer is not working"
+  },
+  {
+    "hinglish": "interest rate kaise check karu?",
+    "english": "How do I check interest rate?"
+  },
+  {
+    "hinglish": "Mujhe balance karna hai",
+    "english": "I want to balance"
+  },
+  {
+    "hinglish": "Naya balance lena hai",
+    "english": "I want to get a new balance"
+  },
+  {
+    "hinglish": "discount kab aayega?",
+    "english": "When will the discount arrive?"
+  },
+  {
+    "hinglish": "Mujhe paise karni hai",
+    "english": "I want to money"
+  },
+  {
+    "hinglish": "interest rate karna hai",
+    "english": "I want to do interest rate"
+  },
+  {
+    "hinglish": "return band ho gaya",
+    "english": "return has stopped"
+  },
+  {
+    "hinglish": "Mujhe transfer chahiye",
+    "english": "I want transfer"
+  },
+  {
+    "hinglish": "Mujhe order me help chahiye",
+    "english": "I need help with order"
+  },
+  {
+    "hinglish": "Mujhe order chahiye",
+    "english": "I want order"
+  },
+  {
+    "hinglish": "Mujhe refund chahiye",
+    "english": "I want refund"
+  },
+  {
+    "hinglish": "return kaise check karu?",
+    "english": "How do I check return?"
+  },
+  {
+    "hinglish": "Mera hi kaam nahi kar raha",
+    "english": "My hi is not working"
+  },
+  {
+    "hinglish": "transfer karna hai",
+    "english": "I want to do transfer"
+  },
+  {
+    "hinglish": "Naya order lena hai",
+    "english": "I want to get a new order"
+  },
+  {
+    "hinglish": "credit card kaam nahi kar raha hai",
+    "english": "credit card is not working"
+  },
+  {
+    "hinglish": "Mujhe kaise karni hai",
+    "english": "I want to how"
+  },
+  {
+    "hinglish": "Mujhe loan chahiye",
+    "english": "I want loan"
+  },
+  {
+    "hinglish": "Naya reset lena hai",
+    "english": "I want to get a new reset"
+  },
+  {
+    "hinglish": "return kitne ka hai?",
+    "english": "How much is the return?"
+  },
+  {
+    "hinglish": "kaise kaise check karu?",
+    "english": "How do I check how?"
+  },
+  {
+    "hinglish": "Mujhe screen chahiye",
+    "english": "I want screen"
+  },
+  {
+    "hinglish": "Mujhe keyboard karni hai",
+    "english": "I want to keyboard"
+  },
+  {
+    "hinglish": "kya kaise check karu?",
+    "english": "How do I check what?"
+  },
+  {
+    "hinglish": "madad kab aayega?",
+    "english": "When will the help arrive?"
+  },
+  {
+    "hinglish": "Naya credit card lena hai",
+    "english": "I want to get a new credit card"
+  },
+  {
+    "hinglish": "Kya main hi kar sakta hu?",
+    "english": "Can I hi?"
+  },
+  {
+    "hinglish": "Tum hi kar rahe ho?",
+    "english": "Are you hiing?"
+  },
+  {
+    "hinglish": "Mujhe loan chahiye",
+    "english": "I want loan"
+  },
+  {
+    "hinglish": "Mujhe return karna hai",
+    "english": "I want to return"
+  },
+  {
+    "hinglish": "madad kab aayega?",
+    "english": "When will the help arrive?"
+  },
+  {
+    "hinglish": "discount kaam nahi kar raha hai",
+    "english": "discount is not working"
+  },
+  {
+    "hinglish": "Kya main order kar sakta hu?",
+    "english": "Can I order?"
+  },
+  {
+    "hinglish": "Tum transfer kar rahe ho?",
+    "english": "Are you transfering?"
+  },
+  {
+    "hinglish": "Mera baat kaam nahi kar raha",
+    "english": "My talk is not working"
+  },
+  {
+    "hinglish": "Mujhe hi karna hai",
+    "english": "I want to hi"
+  },
+  {
+    "hinglish": "Mujhe loan me help chahiye",
+    "english": "I need help with loan"
+  },
+  {
+    "hinglish": "statement karna hai",
+    "english": "I want to do statement"
+  },
+  {
+    "hinglish": "return kaam nahi kar raha hai",
+    "english": "return is not working"
+  },
+  {
+    "hinglish": "Kya main password kar sakta hu?",
+    "english": "Can I password?"
+  },
+  {
+    "hinglish": "Tum return kar rahe ho?",
+    "english": "Are you returning?"
+  },
+  {
+    "hinglish": "Mujhe login karna hai",
+    "english": "I want to login"
+  },
+  {
+    "hinglish": "Kya main keyboard kar sakta hu?",
+    "english": "Can I keyboard?"
+  },
+  {
+    "hinglish": "keyboard kaam nahi kar raha hai",
+    "english": "keyboard is not working"
+  },
+  {
+    "hinglish": "hello karna hai",
+    "english": "I want to do hello"
+  },
+  {
+    "hinglish": "Naya update lena hai",
+    "english": "I want to get a new update"
+  },
+  {
+    "hinglish": "kaise kitne ka hai?",
+    "english": "How much is the how?"
+  },
+  {
+    "hinglish": "transfer band ho gaya",
+    "english": "transfer has stopped"
+  },
+  {
+    "hinglish": "credit card band ho gaya",
+    "english": "credit card has stopped"
+  },
+  {
+    "hinglish": "Mera paise kaam nahi kar raha",
+    "english": "My money is not working"
+  },
+  {
+    "hinglish": "Mera balance kaam nahi kar raha",
+    "english": "My balance is not working"
+  },
+  {
+    "hinglish": "discount kitne ka hai?",
+    "english": "How much is the discount?"
+  },
+  {
+    "hinglish": "Mujhe balance me help chahiye",
+    "english": "I need help with balance"
+  },
+  {
+    "hinglish": "delivery kaam nahi kar raha hai",
+    "english": "delivery is not working"
+  },
+  {
+    "hinglish": "loan kaise check karu?",
+    "english": "How do I check loan?"
+  },
+  {
+    "hinglish": "Mujhe hi karna hai",
+    "english": "I want to hi"
+  },
+  {
+    "hinglish": "Naya balance lena hai",
+    "english": "I want to get a new balance"
+  },
+  {
+    "hinglish": "Mujhe update karna hai",
+    "english": "I want to update"
+  },
+  {
+    "hinglish": "Mujhe keyboard me help chahiye",
+    "english": "I need help with keyboard"
+  },
+  {
+    "hinglish": "Mujhe interest rate karni hai",
+    "english": "I want to interest rate"
+  },
+  {
+    "hinglish": "balance kaise check karu?",
+    "english": "How do I check balance?"
+  },
+  {
+    "hinglish": "Naya password lena hai",
+    "english": "I want to get a new password"
+  },
+  {
+    "hinglish": "kya kitne ka hai?",
+    "english": "How much is the what?"
+  },
+  {
+    "hinglish": "Naya install lena hai",
+    "english": "I want to get a new install"
+  },
+  {
+    "hinglish": "track kab aayega?",
+    "english": "When will the track arrive?"
+  },
+  {
+    "hinglish": "Tum reset kar rahe ho?",
+    "english": "Are you reseting?"
+  },
+  {
+    "hinglish": "track kab aayega?",
+    "english": "When will the track arrive?"
+  },
+  {
+    "hinglish": "Mera error kaam nahi kar raha",
+    "english": "My error is not working"
+  },
+  {
+    "hinglish": "Mujhe interest rate karna hai",
+    "english": "I want to interest rate"
+  },
+  {
+    "hinglish": "Tum login kar rahe ho?",
+    "english": "Are you logining?"
+  },
+  {
+    "hinglish": "Naya balance lena hai",
+    "english": "I want to get a new balance"
+  },
+  {
+    "hinglish": "Naya kya lena hai",
+    "english": "I want to get a new what"
+  },
+  {
+    "hinglish": "Mujhe baat karna hai",
+    "english": "I want to talk"
+  },
+  {
+    "hinglish": "baat kaise check karu?",
+    "english": "How do I check talk?"
+  },
+  {
+    "hinglish": "Kya main kaise kar sakta hu?",
+    "english": "Can I how?"
+  },
+  {
+    "hinglish": "Mujhe kya karni hai",
+    "english": "I want to what"
+  },
+  {
+    "hinglish": "buy kaam nahi kar raha hai",
+    "english": "buy is not working"
+  },
+  {
+    "hinglish": "Tum interest rate kar rahe ho?",
+    "english": "Are you interest rateing?"
+  },
+  {
+    "hinglish": "Mujhe update me help chahiye",
+    "english": "I need help with update"
+  },
+  {
+    "hinglish": "order kaam nahi kar raha hai",
+    "english": "order is not working"
+  },
+  {
+    "hinglish": "Mujhe hi chahiye",
+    "english": "I want hi"
+  },
+  {
+    "hinglish": "madad kaam nahi kar raha hai",
+    "english": "help is not working"
+  },
+  {
+    "hinglish": "Mujhe hello chahiye",
+    "english": "I want hello"
+  },
+  {
+    "hinglish": "Tum screen kar rahe ho?",
+    "english": "Are you screening?"
+  },
+  {
+    "hinglish": "Mujhe login karni hai",
+    "english": "I want to login"
+  },
+  {
+    "hinglish": "Mera order kaam nahi kar raha",
+    "english": "My order is not working"
+  },
+  {
+    "hinglish": "Mujhe account karna hai",
+    "english": "I want to account"
+  },
+  {
+    "hinglish": "price kitne ka hai?",
+    "english": "How much is the price?"
+  },
+  {
+    "hinglish": "Kya main hello kar sakta hu?",
+    "english": "Can I hello?"
+  },
+  {
+    "hinglish": "Mujhe hi karna hai",
+    "english": "I want to hi"
+  },
+  {
+    "hinglish": "Mujhe buy karni hai",
+    "english": "I want to buy"
+  },
+  {
+    "hinglish": "Mujhe error karni hai",
+    "english": "I want to error"
+  },
+  {
+    "hinglish": "Mera credit card kaam nahi kar raha",
+    "english": "My credit card is not working"
+  },
+  {
+    "hinglish": "refund karna hai",
+    "english": "I want to do refund"
+  },
+  {
+    "hinglish": "order kaise check karu?",
+    "english": "How do I check order?"
+  },
+  {
+    "hinglish": "Naya delivery lena hai",
+    "english": "I want to get a new delivery"
+  },
+  {
+    "hinglish": "statement kaise check karu?",
+    "english": "How do I check statement?"
+  },
+  {
+    "hinglish": "Mujhe login me help chahiye",
+    "english": "I need help with login"
+  },
+  {
+    "hinglish": "Mera paise kaam nahi kar raha",
+    "english": "My money is not working"
+  },
+  {
+    "hinglish": "Mera keyboard kaam nahi kar raha",
+    "english": "My keyboard is not working"
+  },
+  {
+    "hinglish": "update band ho gaya",
+    "english": "update has stopped"
+  },
+  {
+    "hinglish": "delivery band ho gaya",
+    "english": "delivery has stopped"
+  },
+  {
+    "hinglish": "Mujhe track karna hai",
+    "english": "I want to track"
+  },
+  {
+    "hinglish": "Mujhe return chahiye",
+    "english": "I want return"
+  },
+  {
+    "hinglish": "delivery kab aayega?",
+    "english": "When will the delivery arrive?"
+  },
+  {
+    "hinglish": "baat kitne ka hai?",
+    "english": "How much is the talk?"
+  },
+  {
+    "hinglish": "kya band ho gaya",
+    "english": "what has stopped"
+  },
+  {
+    "hinglish": "Mujhe track karna hai",
+    "english": "I want to track"
+  },
+  {
+    "hinglish": "transfer kaise check karu?",
+    "english": "How do I check transfer?"
+  },
+  {
+    "hinglish": "Tum keyboard kar rahe ho?",
+    "english": "Are you keyboarding?"
+  },
+  {
+    "hinglish": "kya band ho gaya",
+    "english": "what has stopped"
+  },
+  {
+    "hinglish": "Mera buy kaam nahi kar raha",
+    "english": "My buy is not working"
+  },
+  {
+    "hinglish": "Tum screen kar rahe ho?",
+    "english": "Are you screening?"
+  },
+  {
+    "hinglish": "hi kab aayega?",
+    "english": "When will the hi arrive?"
+  },
+  {
+    "hinglish": "hi change karna hai",
+    "english": "I want to change hi"
+  },
+  {
+    "hinglish": "Tum reset kar rahe ho?",
+    "english": "Are you reseting?"
+  },
+  {
+    "hinglish": "Tum reset kar rahe ho?",
+    "english": "Are you reseting?"
+  },
+  {
+    "hinglish": "delivery kaise check karu?",
+    "english": "How do I check delivery?"
+  },
+  {
+    "hinglish": "Mujhe update chahiye",
+    "english": "I want update"
+  },
+  {
+    "hinglish": "Tum transfer kar rahe ho?",
+    "english": "Are you transfering?"
+  },
+  {
+    "hinglish": "Naya refund lena hai",
+    "english": "I want to get a new refund"
+  },
+  {
+    "hinglish": "statement kaam nahi kar raha hai",
+    "english": "statement is not working"
+  },
+  {
+    "hinglish": "keyboard kaam nahi kar raha hai",
+    "english": "keyboard is not working"
+  },
+  {
+    "hinglish": "Mujhe account me help chahiye",
+    "english": "I need help with account"
+  },
+  {
+    "hinglish": "kaise kaam nahi kar raha hai",
+    "english": "how is not working"
+  },
+  {
+    "hinglish": "delivery kab aayega?",
+    "english": "When will the delivery arrive?"
+  },
+  {
+    "hinglish": "order kaise check karu?",
+    "english": "How do I check order?"
+  },
+  {
+    "hinglish": "Naya update lena hai",
+    "english": "I want to get a new update"
+  },
+  {
+    "hinglish": "Mujhe buy chahiye",
+    "english": "I want buy"
+  },
+  {
+    "hinglish": "Mujhe baat me help chahiye",
+    "english": "I need help with talk"
+  },
+  {
+    "hinglish": "Mera order kaam nahi kar raha",
+    "english": "My order is not working"
+  },
+  {
+    "hinglish": "install karna hai",
+    "english": "I want to do install"
+  },
+  {
+    "hinglish": "Tum login kar rahe ho?",
+    "english": "Are you logining?"
+  },
+  {
+    "hinglish": "Naya balance lena hai",
+    "english": "I want to get a new balance"
+  },
+  {
+    "hinglish": "Mujhe interest rate karni hai",
+    "english": "I want to interest rate"
+  },
+  {
+    "hinglish": "Kya main discount kar sakta hu?",
+    "english": "Can I discount?"
+  },
+  {
+    "hinglish": "transfer kab aayega?",
+    "english": "When will the transfer arrive?"
+  },
+  {
+    "hinglish": "Mujhe install karna hai",
+    "english": "I want to install"
+  },
+  {
+    "hinglish": "reset kaam nahi kar raha hai",
+    "english": "reset is not working"
+  },
+  {
+    "hinglish": "login band ho gaya",
+    "english": "login has stopped"
+  },
+  {
+    "hinglish": "password kab aayega?",
+    "english": "When will the password arrive?"
+  },
+  {
+    "hinglish": "Bhai light chali gayi",
+    "english": "Brother, the electricity is gone"
+  },
+  {
+    "hinglish": "Net nahi chal raha",
+    "english": "Internet is not working"
+  },
+  {
+    "hinglish": "Phone uthao",
+    "english": "Pick up the phone"
+  },
+  {
+    "hinglish": "Gadi kharab ho gayi",
+    "english": "The car broke down"
+  },
+  {
+    "hinglish": "Bhook lagi hai",
+    "english": "I am hungry"
+  },
+  {
+    "hinglish": "Paani khatam ho gaya",
+    "english": "Water is finished"
+  },
+  {
+    "hinglish": "Station kaha hai?",
+    "english": "Where is the station?"
+  },
+  {
+    "hinglish": "Time kya hua hai?",
+    "english": "What is the time?"
+  },
+  {
+    "hinglish": "Kal milte hai",
+    "english": "Let's meet tomorrow"
+  },
+  {
+    "hinglish": "Bahut mehenga hai",
+    "english": "It is very expensive"
+  },
+  {
+    "hinglish": "Paise transfer karne hai",
+    "english": "I want to transfer money"
+  },
+  {
+    "hinglish": "Balance check karna hai",
+    "english": "I want to check my balance"
+  },
+  {
+    "hinglish": "Loan apply karna hai",
+    "english": "I want to apply for a loan"
+  },
+  {
+    "hinglish": "Customer care se baat karni hai",
+    "english": "I want to talk to customer care"
+  },
+  {
+    "hinglish": "Order return karna hai",
+    "english": "I want to return my order"
+  },
+  {
+    "hinglish": "Kya kar rahe ho?",
+    "english": "What are you doing?"
+  },
+  {
+    "hinglish": "Kya kr rahe ho",
+    "english": "What are you doing?"
+  },
+  {
+    "hinglish": "Ky karto a",
+    "english": "What are you doing?"
+  },
+  {
+    "hinglish": "Mujhse baat karo",
+    "english": "Talk to me"
+  },
+  {
+    "hinglish": "Kaise ho?",
+    "english": "How are you?"
+  },
+  {
+    "hinglish": "Tum kaun ho?",
+    "english": "Who are you?"
+  }
+]
