@@ -19,7 +19,7 @@ This shows how the model converts text into numbers (vectors).
 from sentence_transformers import SentenceTransformer
 
 # Load the model
-model = SentenceTransformer('YOUR_USERNAME/hinglish-minilm-v1')
+model = SentenceTransformer('anuragwagh0/hinglish-minilm-v1')
 
 # Encode sentences
 sentences = ["Mujhe loan chahiye", "I want a loan"]
@@ -35,7 +35,7 @@ This is how you use the model to "route" user queries to the right function in y
 ```python
 from sentence_transformers import SentenceTransformer, util
 
-model = SentenceTransformer('YOUR_USERNAME/hinglish-minilm-v1')
+model = SentenceTransformer('anuragwagh0/hinglish-minilm-v1')
 
 # 1. Define your App's Capabilities (The "Targets")
 app_actions = [
